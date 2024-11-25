@@ -1,0 +1,12 @@
+{
+  "name": "guldus",
+  "version": "1.0.0",
+  "description": "## Deploy",
+  "main": "analytics.js",
+  "scripts": {
+    "add-script-tag": "cp analytics.js app/analytics.js && node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
