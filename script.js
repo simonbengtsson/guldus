@@ -2,7 +2,7 @@ const fs = require("fs").promises;
 const path = require("path");
 
 const folderPath = "./app";
-const scriptTag = '<script src="script.js"></script>';
+const scriptTag = '<script src="analytics.js"></script>';
 
 async function addScriptTagToHtmlFiles() {
   const files = await fs.readdir(folderPath);
