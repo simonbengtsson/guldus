@@ -4,9 +4,13 @@
   "description": "## Deploy",
   "main": "analytics.js",
   "scripts": {
+    "deploy": "npx wrangler pages deploy app --project-name guldus",
     "prepare": "cp analytics.js app/analytics.js && node script.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
 }
