@@ -31,3 +31,4 @@ async function addScriptTagToHtmlFiles() {
 }
 
 addScriptTagToHtmlFiles();
+fs.copyFile("index.html", "app/index.html");
