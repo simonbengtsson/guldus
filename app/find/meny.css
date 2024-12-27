@@ -1,0 +1,43 @@
+﻿/* Listelementen <LI> med knapparna */
+#meny-f li {
+ display: inline;
+ list-style: none;
+ }
+
+#meny-f li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+ font-size: 12px;
+ color: rgba(66,48,1,1);          
+ border-radius: 0px;
+ border: 1px solid  #39A5D3;  
+ background: #3498D8;
+ box-shadow: inset 0 0 0 1px rgba(400, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+66,48,1,1        255,255,255,1
+
+
+#meny-f li a:hover {
+ cursor: pointer;
+ background: #F4D03F;            
+ color: rgba(0,0,0,1);
+ }
+
+ #meny-f a:link, #meny a:visited {
+ color: rgba(154, 125, 8);
+ text-decoration: none;
+ }
+
+ #meny-f a:active {
+ color: rgba(280,191,12,1);
+ }
+
+#meny-f a#current {
+ background: rgba(125, 108, 8);     
+ }
+85,137,48,1

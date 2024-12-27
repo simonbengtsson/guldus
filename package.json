@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "## Deploy",
   "main": "analytics.js",
+  "type": "module",
   "scripts": {
     "deploy": "npx wrangler pages deploy app --project-name guldus",
     "prepare": "cp analytics.js app/analytics.js && node script.js"

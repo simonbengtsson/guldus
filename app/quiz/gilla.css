@@ -1,0 +1,54 @@
+.button-face {
+    background-color: #3b5998;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 4px #999;
+}
+
+
+.mybgcolor {background-color:#3b5998; } 
+.myforecolor {color:#3b5998; }
+.mybordercolor {border:3px solid #3b5998; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button-twit {
+    background-color: #4099FF;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 4px #999;
+}
+
+
+.mybgcolor {background-color:#4099FF; } 
+.myforecolor {color:#4099FF; }
+.mybordercolor {border:3px solid #4099FF; }
+
+
+
+
+

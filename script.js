@@ -1,13 +1,18 @@
-const fs = require("fs").promises;
-const path = require("path");
+import fs from "fs/promises";
+import path from "path";
 
-const folderPath = "./app";
 const scriptTag = '<script src="analytics.js"></script>';
 
-async function addScriptTagToHtmlFiles() {
+async function addScriptTagToHtmlFiles(folderPath) {
   const files = await fs.readdir(folderPath);
 
   for (const file of files) {
+    const isDirectory = (
+      await fs.stat(path.join(folderPath, file))
+    ).isDirectory();
+    if (isDirectory) {
+      addScriptTagToHtmlFiles(path.join(folderPath, file));
+    }
     if (path.extname(file) !== ".html") continue;
 
     const filePath = path.join(folderPath, file);
@@ -23,12 +28,12 @@ async function addScriptTagToHtmlFiles() {
 
     if (!data.includes("</body>")) {
       console.log(`🔴 No </body> found in: ${file}`);
+    } else {
+      await fs.writeFile(filePath, updatedContent, "utf8");
+      console.log(`Script tag added to: ${file}`);
     }
-
-    await fs.writeFile(filePath, updatedContent, "utf8");
-    console.log(`Script tag added to: ${file}`);
   }
 }
 
-addScriptTagToHtmlFiles();
-fs.copyFile("index.html", "app/index.html");
+addScriptTagToHtmlFiles("./app");
+//fs.copyFile("index.html", "app/index.html");
