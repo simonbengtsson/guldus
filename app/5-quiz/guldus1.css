@@ -1,0 +1,176 @@
+﻿img {
+width: auto;
+margin: 0px;
+display:60px; 
+}
+
+#x {
+  font-family: Lucida Calligraphy;
+  font-size: 40px; 
+  font-weight: medium;
+  color: #41994A;  
+  background:#fff; }
+
+
+
+
+
+
+
+
+
+h-3 {
+ font-family: Papyrus;
+ font-size: 28px; 
+ font-weight: medium;
+ color: #95A5A6;
+ background:#; }
+
+
+
+
+
+
+
+
+
+
+
+
+.text_skugga {
+text-shadow: 4px 5px 3px rgba(0,0,0, 0.5);
+ font-family:Papyrus;
+ align: center;
+ font-size: 50px;
+ font-weight: none;
+ color: #95A5A6;
+ }
+
+
+.skicka_knapp { background-image: url(); height: 23px; width: 106px; 
+ background-color: transparent; border: none; }
+
+
+/* Listelementen <LI> med knapparna */
+#meny li {
+ display: inline;
+ list-style: none;
+ }
+
+#meny li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Papyrus";
+ font-size: 25px;
+ color: rgba(66,48,1,1);
+ border-radius: 0px;
+ border: 1px solid # 8E9B9E;  
+ background: # 8E9B9E;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#meny li a:hover {
+ cursor: pointer;
+ background: #E59866;
+ color: rgba(0,0,0,1);
+ }
+
+ #meny a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #meny a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#meny a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+medium
+
+
+
+
+.input[type="submit"]:hover {
+	background: orange;
+}
+
+
+
+
+
+
+#ram { 
+width: 300px; 
+padding: 5px 20px 80px 20px; 
+border: 2px solid #2196d1; 
+background:#fff;
+font-family: Georgia;
+font-size: 12px;
+font-weight: bold;
+}
+ 
+
+
+
+
+
+ol { list-style-type: lower-roman; } i.Punkt 1
+ii.Punkt 2
+iii.Punkt 3
+ol { list-style-type: upper-roman; } I.Punkt 1
+II.Punkt 2
+III.Punkt 3
+ol { list-style-type: lower-alpha; } a.Punkt 1
+b.Punkt 2
+c.Punkt 3
+ol { list-style-type: upper-alpha; } A.Punkt 1
+B.Punkt 2
+C.Punkt 3
+ol { list-style-type: decimal; } 1.Punkt 1
+2.Punkt 2
+3.Punkt 3
+
+
+
+
+sub {
+vertical-align: baseline; position: relative; top: 0.3em; font-size: 1.8em; font-color: #00A505; }
+
+sup {vertical-align: baseline; position: relative; bottom: 0.5em; font-size: 1.8em font-color: #00A505; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

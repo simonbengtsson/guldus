@@ -1,0 +1,1137 @@
+   body {
+ margin: 0;
+ padding: 0;
+ }
+
+
+
+
+ #centerbox {
+width: 70%;
+ margin: 20px auto 20px auto;
+ }
+
+
+
+
+ #sidhuvud {
+ background-image: url(vy.jpg); height: 100%; width: 100%; 
+ min-height: 200px;
+ padding: 2%;
+ border-bottom: 1px solid #000;}
+
+
+
+#sidhuvud-face.K-uniq {
+ background-image: url(Kombiuniq.png); height: 80%; width: 80%; 
+ min-height: 400px;
+ padding: 2%;
+ border-bottom: 0px solid #000;}
+ 
+#face  {
+background-color: #3b5998;}
+
+
+
+
+#sidhuvud-face.Kombiuniq {
+ background-image: url(Kombiuniq.png); height: 100%; width: 100%; 
+ background-color: #3b5998;
+ min-height: 180px;
+ padding: 2%;
+ border-bottom: 0px solid #000;}
+
+#face  {
+background-color: #3b5998;}
+
+
+
+
+#sidhuvud-face.konsument {
+ background-image: url(Kombiuniq.png); height: 100%; width: 100%; 
+ background-color: #3b5998;
+ min-height: 180px;
+ padding: 2%;
+ border-bottom: 0px solid #000;}
+
+#face  {
+background-color: #3b5998;}
+
+
+
+
+
+
+
+#sidhuvud-twit.Kombiuniq {
+ background-image: url(Kombiuniq.png); height: 100%; width: 100%; 
+ min-height: 180px;
+ padding: 2%;
+ border-bottom: 0px solid #000;}
+
+#twit  {
+background-color: #4099FF;}
+
+
+
+
+
+
+#sidhuvud-twit.konsument {
+ background-image: url(Kombiuniq.png); height: 100%; width: 100%; 
+ min-height: 180px;
+ padding: 2%;
+ border-bottom: 0px solid #000;}
+
+#twit  {
+background-color: #4099FF;}
+
+
+
+
+
+
+
+ #sidhuvud5 {
+ background-image: url(kaffe.jpg); height: 180%; width: 700%; 
+ min-height: 60px;
+ padding: 2%;
+ border-bottom: 1px solid #000;}
+
+
+
+
+
+
+#sidhuvudg {
+ background: #2C7C33;
+ min-height: 180px;
+ padding: 2%;
+ border-bottom: 0px solid #000;}
+
+
+
+
+
+ #sidhuvudp {
+ background: #27C1D8;
+ min-height: 100px;
+ padding: 2%;
+ border-bottom: 1px solid #000;}
+
+
+
+
+ #sidhuvudx {
+ background: #2C7C33;
+ width: 100%;
+ min-height: auto;
+ padding: 2%;
+ border-bottom: 1px solid #000;}
+
+
+ #sidhuvud-x  {
+background: #2C7C33;
+float: left;
+width: 100%;
+min-height: auto;
+margin: 0;
+padding: 0;
+font-family: Garamond;
+align: center;
+font-size: 40px;
+font-weight: bold;
+color: #fff;
+border-bottom: 1px solid #000; }
+
+
+
+ #sidhuvud-p  {
+background: #27C1D8;
+float: left;
+width: 100%;
+min-height: auto;
+margin: 0;
+padding: 0;
+font-family: Garamond;
+align: center;
+font-size: 40px;
+font-weight: bold;
+color: #fff;
+border-bottom: 1px solid #000; }
+
+
+
+
+
+ #sidhuvud2 {
+ background-image: url(bollar.jpg); height: 23px; width: 106px; 
+ min-height:350px;
+ padding: 2%;
+ border-bottom: 1px solid #000;
+ }
+
+
+
+ #allt {
+ background-image: url(kombiuniq.png); height: 100%; width: 100%; 
+ min-height:auto;
+ padding: 2%;
+ border-bottom: 0px solid #000;
+ }
+
+
+
+
+
+
+
+ #kolumn1 {
+ float: left;
+ width: 30%;
+ min-height: 350px;
+ padding: 0 2% 2% 2%;
+ background: #f2f2f2;
+ border-right: 1px solid #000;
+ }
+
+
+ #kolumn2 {
+ float: left;
+ width: 30%;
+ min-height: 350px;
+ padding: 0 2% 2% 2%;
+ }
+
+
+#kolumn-v {
+ float: left;
+ width: 30%;
+ border:0px solid #;
+ min-height: 150px;
+ padding: 0 1% 1% 1%;
+ background-color: #;
+ }
+
+
+
+
+#kolumn-c {
+ float: left;
+ width: 30%;
+ border:0px solid #;
+ min-height: 150px;
+ padding: 0 1% 1% 1%;
+ background-color: #;
+ }
+
+
+
+#kolumn-h {
+ float: left;
+ width: 30%;
+ border:0px solid #;
+ min-height: 150px;
+ padding: 0 1% 1% 1%;
+ background-color: #;
+ }
+
+
+
+
+
+
+ #kolumn4 {
+ float: left;
+ width: 98%;
+ min-height: auto;
+ padding: 0 2% 2% 2%;
+ }
+
+
+#kolumn-1 {
+ float: center;
+ width: 400px;
+ border:0px solid #;
+ min-height: 150px;
+ padding: 0 0% 0% 0%;
+ background-color: ;
+font-family: Garamond;
+align: center;
+font-size: 20px;
+font-weight: none;
+ }
+
+
+
+#kolumn-2 {
+ float: center;
+ width: 200px;
+ border:0px solid #;
+ min-height: 150px;
+ padding: 0 2% 2% 2%;
+ background-color: green;
+font-family: Garamond;
+align: left;
+font-size: 40px;
+font-weight: none;
+ }
+
+
+#kolumn-3 {
+ float: left;
+ width: 200px;
+ border:0px solid #666;
+ min-height: 150px;
+ padding: 0 2% 0% 2%;
+ background-color: #fff;
+font-family: Garamond;
+align: left;
+font-size: 40px;
+font-weight: none;
+ }
+
+
+
+
+#box1 {
+ width: 400px;
+ height: 100px;
+ background-color: #FFFFFE;
+ border-radius: 20px; 
+ box-shadow: 5px 5px 10px rgba(0,0,0, 0.5);"
+ }
+
+
+
+#box2 {
+ width: 400px;
+ height: 100px;
+ background-color: #BAD1BA;
+ border-radius: 20px; 
+box-shadow: 5px 5px 10px rgba(0,0,0, 0.5);"
+ }
+
+
+
+#box3 {
+ width: 400px;
+ height: 100px;
+ background-color: #BAD1BA;
+ border-radius: 20px; 
+box-shadow: 5px 5px 10px rgba(0,0,0, 0.5);"
+ }
+
+
+
+#box4 {
+ width: 60%;
+ height: 60%;
+ background #E3E5E3; 
+ border-radius: 0px; 
+box-shadow: 0px 0px 0px #666;"
+ }
+
+
+
+
+#box-K-uniq {
+ width: 100%;
+ height: 100%;
+ background-image: url(); 
+ background: #8E9B9E
+ border-radius: 0px; 
+box-shadow: 5px 5px 10px rgba(0,0,0, 0.5);"
+ }
+
+
+
+
+
+#container1 { 
+width:auto; 
+border:1px solid #666; 
+padding:10px;}
+
+
+#container2 { 
+width:auto; 
+border:1px solid #666; 
+padding:10px;}
+
+
+
+#container3 { 
+width:auto; 
+border:1px solid #666; 
+padding:10px;}
+
+
+
+#container4 { 
+width:300px; 
+border:1px solid #666; 
+padding:10px;}
+
+
+
+.text_skugga1 {
+text-shadow: 4px 5px 3px rgba(0,0,0, 0.5);
+ font-family: Georgia;
+ align: center;
+ font-size: 40px;
+ font-weight: none;
+ color: #fff;
+ }
+
+
+
+
+
+.text_skugga {
+text-shadow: 4px 5px 3px rgba(0,0,0, 0.5);
+ font-family:Papyrus;
+ align: center;
+ font-size: 50px;
+ font-weight: none;
+ color: #aeb8bb;
+ }
+
+
+.skicka_knapp { background-image: url(); height: 23px; width: 106px; 
+ background-color: transparent; border: none; }
+
+
+/* Listelementen <LI> med knapparna */
+#meny li {
+ display: inline;
+ list-style: none;
+ }
+
+#meny li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Papyrus";
+ font-size: 25px;
+ color: rgba(66,48,1,1);
+ border-radius: 0px;
+ border: 1px solid # 8E9B9E;  
+ background: # 8E9B9E;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#meny li a:hover {
+ cursor: pointer;
+ background: #F9E79F;
+ color: rgba(0,0,0,1);
+ }
+
+ #meny a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #meny a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#meny a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+
+
+
+
+
+/* Listelementen <LI> med knapparna */
+#menyA li {
+ display: inline;
+ list-style: none;
+ }
+
+#menyA li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+ font-size: 20px;
+ color: #000;
+ border-radius: 5px;
+ border: px solid #2C7C33;
+ background-image: url(hstan.png); height: 46px; width: 313px; 
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#menyA li a:hover {
+ cursor: pointer;
+ background-image: url(hstan.png); height: 46px; width: 313px; 
+ color: rgba(0,0,0,1);
+ }
+
+ #menyA a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyA a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyA a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+
+
+
+
+name
+Namn och identifierare på ramen. Används även som mål (target) vid länkning. 
+•width och height
+ Bredd och höjd på ramen i pixlar. Du kan ange enheten i procent % av webbläsarens fönster.
+•margin width -  margin height
+ Avståndet från ramkanten till innehållet i ramen.
+•scrolling
+auto=vid behov
+yes=alltid
+no=aldrig
+ exempel:  scrolling="auto" 
+•frameborder 
+ Visar ramens kantlinje eller ej. Ange värdet 1 eller 0.
+ exempel: frameborder="0"
+
+
+.scrollbox {
+padding: 10px; 
+height: 100px; 
+width: 280px; 
+border: 1px solid #999999; 
+overflow: auto; 
+background-color: #000;}
+
+
+
+
+
+
+
+#meny2 li a  {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+ font-size: 20px;
+ color: rgba(66,48,1,1);
+ border-radius: 5px;
+ border: 1px solid #9BE5EF;
+ background: #9BE5EF;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#meny2 li a:hover {
+ cursor: pointer;
+ background: #fff;
+ color: rgba(0,0,0,1);
+ }
+
+ #meny2 a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #meny2 a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#meny2 a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+#font-vit  {
+float: left;
+width: 100%;
+margin: 20px;
+padding: 0;
+font-family: Garamond;
+align: left;
+font-size: 30px;
+font-weight: 0;
+color: #fff;
+ }
+
+
+
+
+#font  {
+float: left;
+width: 50%;
+margin: 0;
+padding: 0;
+font-family: Garamond;
+align: left;
+font-size: 30px;
+font-weight: bold;
+color: #2196d1; }
+
+
+
+
+
+#fontE  {
+float: left;
+width: 100%;
+margin: 0;
+padding: 0;
+font-family: Garamond;
+align: left;
+font-size: 30px;
+font-weight: bold;
+color: #green; }
+
+
+
+
+
+
+/* Listelementen <LI> med knapparna */
+#menyg li {
+ display: inline;
+ list-style: none;
+ }
+
+#menyg li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode";
+ font-size: 20px;
+ color: rgba(66,48,1,1);
+ border-radius: 5px;
+ border: 1px solid #2C7C33;
+ background: #2C7C33;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#menyg li a:hover {
+ cursor: pointer;
+ background: #fff;
+ color: rgba(0,0,0,1);
+ }
+
+ #menyg a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyg a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyg a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+
+
+/* Listelementen <LI> med knapparna */
+#menyf li {
+ display: inline;
+ list-style: none;
+ }
+
+#menyf li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode";
+ font-size: 20px;
+ color: rgba(66,48,1,1);
+ border-radius: 5px;
+ border: 1px solid #27C1D8;
+ background: #27C1D8;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#menyf li a:hover {
+ cursor: pointer;
+ background: #fff;
+ color: rgba(0,0,0,1);
+ }
+
+ #menyf a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyf a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyf a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+/* Listelementen <LI> med knapparna */
+#menyo li {
+ display: inline;
+ list-style: none;
+ }
+
+#menyo li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 90px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode";
+ font-size: 20px;
+ color: rgba(66,48,1,1);
+ border-radius: 0px;
+ border: 1px solid #2196d1;
+ background: #2196d1;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#menyo li a:hover {
+ cursor: pointer;
+ background: #fff;
+ color: rgba(0,0,0,1);
+ }
+
+ #menyo a:link, #menyo a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyo a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyo a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+/* Listan <UL> med knapparna */
+ul {
+	
+margin: 0;
+	padding: 0;
+}
+
+
+/* Listelementen <LI> med knapparna */
+
+#meny1 li {
+	
+list-style: none;
+	
+margin: 5px 0 10px 0;
+}
+
+
+#meny1 li a {
+	
+display: block;
+	
+width: 250px;
+	
+margin: 0;
+	
+padding: 5px 10px 5px 10px;
+	
+text-align: center;
+	
+font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+	
+font-size: 20px;
+	
+color: rgba(66,48,1,1);
+	
+border-radius: 0px;
+	
+border: 1px solid #E3E5E3;
+	
+background: #E3E5E3;
+	
+box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+}
+
+
+#meny1 li a:hover {
+	
+cursor: pointer;
+	
+background: f9f9f9;	
+color: rgba(0,0,0,1);
+}
+
+
+#meny1 a:link, 
+
+#meny1 a:visited {
+	
+color: rgba(255,255,255,1);
+	
+text-decoration: none;
+}
+
+
+#meny1 a:active {
+	
+color: rgba(250,191,12,1);
+}
+
+
+#meny1 a#current {
+	
+background: rgba(85,137,48,1);
+}
+
+
+
+
+
+
+/* Listelementen <LI> med knapparna */
+#menyx li {
+ display: inline;
+ list-style: none;
+ }
+
+#menyx li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+ font-size: 20px;
+ color: rgba(66,48,1,1);
+ border-radius: 0px;
+ border: 1px solid # 8E9B9E;  
+ background: # 8E9B9E;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#menyx li a:hover {
+ cursor: pointer;
+ background: #E3E5E3;
+ color: rgba(0,0,0,1);
+ }
+
+ #menyx a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyx a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyx a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+#menyw li a:hover {
+ cursor: pointer;
+ background: ##B0E0E6;
+ color: rgba(176, 224, 230);
+ }
+
+ #menyw a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyw a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyw a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menyz li a {
+ margin: 0 5px 0 0;
+ padding: 5px 20px 5px 20px;
+ text-align: left;
+ white-space: nowrap;
+ line-height: 50px;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+ font-size: 20px;
+ color: rgba(66,48,1,1);
+ border-radius: 0px;
+ border: 1px solid # 8E9B9E;  
+ background: # 8E9B9E;
+ box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3), 0 2px 3px rgba(0,0,0,0.70);
+ }
+
+#menyz li a:hover {
+ cursor: pointer;
+ background: #E3E5E3;
+ color: rgba(0,0,0,1);
+ }
+
+ #menyz a:link, #meny a:visited {
+ color: rgba(255,255,255,1);
+ text-decoration: none;
+ }
+
+ #menyz a:active {
+ color: rgba(250,191,12,1);
+ }
+
+#menyz a#current {
+ background: rgba(85,137,48,1);
+ }
+
+
+
+
+
+ 
+
+
+.button {
+  border-radius: 0px;
+  background-color: #00A555;
+  border: 0px;
+  color: #FCFCFC;
+  text-align: center;
+  font-size: 40px;
+  padding: 8px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 1px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+
+.button-B {
+  border-radius: 0px;
+  background-color: #454545;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 8px;
+  width: 500px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button-B {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover  {
+  padding-right: 25px;
+}
+
+.button:hover:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+.button-Fil {
+  border-radius: 0px;
+  background-color: #454545;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px;
+  padding: 8px;
+  width: autopx;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button-Fil {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover  {
+  padding-right: 25px;
+}
+
+.button:hover:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+.button-K {
+  border-radius: 0px;
+  background-color: #38940A;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 4px;
+  width: 80px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button-K {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover  {
+  padding-right: 25px;
+}
+
+.button:hover:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
